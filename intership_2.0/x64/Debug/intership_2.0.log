@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\intership\intership_2.0\intership_2.0\main.cpp(9,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  intership_2.0.vcxproj -> D:\intership\intership_2.0\x64\Debug\intership_2.0.exe
